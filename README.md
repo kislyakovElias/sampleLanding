@@ -1,2 +1,1 @@
-# sampleLanding
-# sampleLanding
+# sampleLanding website for DevOps course
